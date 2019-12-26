@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/custiom/practice_react.js_movie_app/static/css/main.ec76e153.chunk.css",
-    "main.js": "/custiom/practice_react.js_movie_app/static/js/main.b71ad623.chunk.js",
-    "main.js.map": "/custiom/practice_react.js_movie_app/static/js/main.b71ad623.chunk.js.map",
-    "runtime-main.js": "/custiom/practice_react.js_movie_app/static/js/runtime-main.ef740de5.js",
-    "runtime-main.js.map": "/custiom/practice_react.js_movie_app/static/js/runtime-main.ef740de5.js.map",
-    "static/js/2.31ce3539.chunk.js": "/custiom/practice_react.js_movie_app/static/js/2.31ce3539.chunk.js",
-    "static/js/2.31ce3539.chunk.js.map": "/custiom/practice_react.js_movie_app/static/js/2.31ce3539.chunk.js.map",
-    "index.html": "/custiom/practice_react.js_movie_app/index.html",
-    "precache-manifest.5ea30fb502c2d5b4bb7647dcf5066fdd.js": "/custiom/practice_react.js_movie_app/precache-manifest.5ea30fb502c2d5b4bb7647dcf5066fdd.js",
-    "service-worker.js": "/custiom/practice_react.js_movie_app/service-worker.js",
-    "static/css/main.ec76e153.chunk.css.map": "/custiom/practice_react.js_movie_app/static/css/main.ec76e153.chunk.css.map",
-    "static/js/2.31ce3539.chunk.js.LICENSE": "/custiom/practice_react.js_movie_app/static/js/2.31ce3539.chunk.js.LICENSE"
+    "main.css": "/practice_react.js_movie_app/static/css/main.ec76e153.chunk.css",
+    "main.js": "/practice_react.js_movie_app/static/js/main.b71ad623.chunk.js",
+    "main.js.map": "/practice_react.js_movie_app/static/js/main.b71ad623.chunk.js.map",
+    "runtime-main.js": "/practice_react.js_movie_app/static/js/runtime-main.56974c26.js",
+    "runtime-main.js.map": "/practice_react.js_movie_app/static/js/runtime-main.56974c26.js.map",
+    "static/js/2.31ce3539.chunk.js": "/practice_react.js_movie_app/static/js/2.31ce3539.chunk.js",
+    "static/js/2.31ce3539.chunk.js.map": "/practice_react.js_movie_app/static/js/2.31ce3539.chunk.js.map",
+    "index.html": "/practice_react.js_movie_app/index.html",
+    "precache-manifest.8d36c7d8642341c9c94d9b338029b2cd.js": "/practice_react.js_movie_app/precache-manifest.8d36c7d8642341c9c94d9b338029b2cd.js",
+    "service-worker.js": "/practice_react.js_movie_app/service-worker.js",
+    "static/css/main.ec76e153.chunk.css.map": "/practice_react.js_movie_app/static/css/main.ec76e153.chunk.css.map",
+    "static/js/2.31ce3539.chunk.js.LICENSE": "/practice_react.js_movie_app/static/js/2.31ce3539.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef740de5.js",
+    "static/js/runtime-main.56974c26.js",
     "static/js/2.31ce3539.chunk.js",
     "static/css/main.ec76e153.chunk.css",
     "static/js/main.b71ad623.chunk.js"

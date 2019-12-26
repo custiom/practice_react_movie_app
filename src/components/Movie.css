@@ -1,0 +1,52 @@
+.movies_movie {
+    display: flex;
+    width : 45%;
+    background-color: #ffffff;
+    height: 270px;
+    margin-bottom: 70px;
+    font-weight: 300;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25), 0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
+
+.movies img {
+    position: relative;
+    width: 100%;
+    top: -50px;
+    max-width: 120px;
+    margin-right: 20px;
+}
+
+.movie_data {
+    margin : 0px;
+}
+
+.movie_data .movie_title,
+.movie_data .movie_year {
+    font-weight: 300;
+    margin: 0px;
+}
+
+.movie_data .movie_title {
+    font-size: 22px;
+    margin-bottom: 5px;
+    color: #2c2c2c;
+}
+
+.movie_data .movie_year {
+    font-size: 14px;
+}
+
+.movie_data .movie_genres {
+    list-style: none;
+    margin: 5px 0px;
+    padding: 0px;
+    display: flex;
+}
+
+.movie_genres li {
+    margin-right: 5px;
+}

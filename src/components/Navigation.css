@@ -1,0 +1,14 @@
+.navigation {
+    background-color: white;
+    display: inline;
+}
+
+.nav_item {
+    color: blue;
+    width: 50px;
+    height: 30px;
+    padding: 10px;
+    align-content: center;
+    vertical-align: center;
+    font-weight: bold;
+}

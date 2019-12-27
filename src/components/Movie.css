@@ -1,6 +1,6 @@
 .movies_movie {
     display: flex;
-    width : 45%;
+    width : 100%;
     background-color: #ffffff;
     height: 270px;
     margin-bottom: 70px;
